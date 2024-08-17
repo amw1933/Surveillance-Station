@@ -24,7 +24,7 @@ bash <(curl -L https://raw.githubusercontent.com/amw1933/Surveillance-Station/ma
 ### Remove license
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/9.2.0_11289/license/remove_license)
+bash <(curl -L https://raw.githubusercontent.com/amw1933/Surveillance-Station/main/9.2.0_11289/license/remove_license)
 ```
 ---
 ### Cracked
